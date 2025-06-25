@@ -5,3 +5,4 @@
 
 ## Autores de paz
 -[victor moreno](https://github.com/victormoreno-2007)
+-[Alejo](https://github.com/Alejor0205)
